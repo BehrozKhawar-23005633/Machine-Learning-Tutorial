@@ -15,3 +15,7 @@ This project demonstrates the application of Convolutional Neural Networks (CNNs
 2. Install the required dependencies:
    ```bash
    pip install tensorflow matplotlib numpy
+   
+Run the script file to train the CNN on the CIFAR-10 dataset.
+Visualizations such as feature maps and Grad-CAM will be generated and saved in the outputs/ directory.
+Misclassified samples and evaluation metrics are logged for further analysis.
