@@ -23,7 +23,6 @@ Misclassified samples and evaluation metrics are logged for further analysis.
 
 ## Acknowledgments
 This project references:
-
-## TensorFlow and Keras documentation
+TensorFlow and Keras documentation
 Grad-CAM implementation paper by Selvaraju et al.
 CIFAR-10 dataset from Krizhevsky and Hinton
