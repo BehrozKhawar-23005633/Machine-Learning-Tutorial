@@ -19,3 +19,10 @@ This project demonstrates the application of Convolutional Neural Networks (CNNs
 Run the script file to train the CNN on the CIFAR-10 dataset.
 Visualizations such as feature maps and Grad-CAM will be generated and saved in the outputs/ directory.
 Misclassified samples and evaluation metrics are logged for further analysis.
+
+Acknowledgments
+This project references:
+
+TensorFlow and Keras documentation
+Grad-CAM implementation paper by Selvaraju et al.
+CIFAR-10 dataset from Krizhevsky and Hinton
